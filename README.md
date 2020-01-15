@@ -1,2 +1,2 @@
-# Drowsiness-Detection
-Drowsiness Detection by using Deep Learning
+# drowsiness-detection
+dowsiness detection by using deep learning 
